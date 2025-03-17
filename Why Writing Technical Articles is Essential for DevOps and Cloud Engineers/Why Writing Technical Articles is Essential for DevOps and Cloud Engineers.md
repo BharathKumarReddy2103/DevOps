@@ -102,7 +102,7 @@ Use this **article structure** to maintain readability:
 
 **•	Medium or LinkedIn:** Cross-post articles to **reach a wider audience.**
 
-**•	DevOps Forums:** Share links to your articles on **Reddit, Dev.to, and LinkedIn groups.**
+**•	DevOps Forums:** Share links to your articles on **Dev.to, medium, and LinkedIn groups.**
 
 **Example:**
 
