@@ -148,6 +148,6 @@ Start today by writing about **any recent challenge you solved** or **a new conc
 3. Share it with **DevOps communities** and engage with readers.  
 4. Keep writing consistently and **track your career growth**.  
 
-> **Remember:** Every expert was once a beginner who decided to share their knowledge.  
+**Remember: Every expert was once a beginner who decided to share their knowledge.**
 
 **Happy writing**
