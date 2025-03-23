@@ -1,4 +1,4 @@
-**End-to-End DevOps Workflow in a Real-World Corporate Environment**
+**End-to-End DevOps Workflow in a Real-World Corporate Environment :**
 
 **Introduction**
 
