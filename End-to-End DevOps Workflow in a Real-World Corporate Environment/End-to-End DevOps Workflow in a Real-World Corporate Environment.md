@@ -108,13 +108,13 @@ The development and testing phase includes writing code, committing to version c
 
 **Branching Strategy:**
 
-•	main / master: Production
+•	**main / master**: Production
 
-•	dev: Development
+•	**dev**: Development
 
-•	qa, staging, dr: Environment-specific branches
+•	**qa, staging, dr**: Environment-specific branches
 
-•	feature/*: Feature branches for new development
+•	**feature/***: Feature branches for new development
 
 **Developer Workflow:**
 
