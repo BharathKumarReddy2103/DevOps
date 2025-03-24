@@ -158,17 +158,29 @@ That’s what truly stands out to recruiters and hiring managers.
 ________________________________________
 **Quick Links to Official Certification Pages**
 
-•	CKA - Certified Kubernetes Administrator (https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
+•	**CKA - Certified Kubernetes Administrator**
 
-•	CKAD - Certified Kubernetes Application Developer (https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
+(https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
-•	CKS - Certified Kubernetes Security Specialist (https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist-cks-2/)
+•	**CKAD - Certified Kubernetes Application Developer**
 
-•	AWS Cloud Practitioner (https://aws.amazon.com/certification/certified-cloud-practitioner/)
+(https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/)
 
-•	Azure Fundamentals (AZ-900) (https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+•	**CKS - Certified Kubernetes Security Specialist**
 
-•	Google Associate Cloud Engineer (https://cloud.google.com/learn/certification/cloud-engineer/)
+(https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist-cks-2/)
+
+•	**AWS Cloud Practitioner**
+
+(https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
+•	**Azure Fundamentals (AZ-900)**
+
+(https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+
+•	**Google Associate Cloud Engineer**
+
+(https://cloud.google.com/learn/certification/cloud-engineer/)
 ________________________________________
 **Connect and Contribute**
 
