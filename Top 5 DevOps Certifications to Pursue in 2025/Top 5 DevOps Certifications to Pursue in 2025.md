@@ -159,6 +159,7 @@ ________________________________________
 **Quick Links to Official Certification Pages**
 
 •	**CKA - Certified Kubernetes Administrator**
+
 (https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/)
 
 •	**CKAD - Certified Kubernetes Application Developer**
