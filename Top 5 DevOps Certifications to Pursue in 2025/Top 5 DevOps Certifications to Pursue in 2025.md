@@ -2,7 +2,7 @@
 
 In the ever-evolving DevOps landscape, choosing the right certification can be overwhelming—especially with the abundance of tools, technologies, and learning paths available. Whether you're a fresher stepping into DevOps or an experienced professional pivoting from another domain, certifications can validate your expertise and boost your credibility.
 
-This guide outlines the **Top 5 DevOps Certifications for 2025**, curated by analyzing multiple job descriptions, current industry trends, and certification syllabi. You’ll gain clarity on what certifications matter, which ones to prioritize, and how to practically apply the knowledge for career growth.
+This guide outlines the **Top 5 DevOps Certifications for 2025**, curated by analyzing multiple job descriptions, current industry trends, and certification syllabus. You’ll gain clarity on what certifications matter, which ones to prioritize, and how to practically apply the knowledge for career growth.
 ________________________________________
 **Why Certifications Matter in DevOps**
 
