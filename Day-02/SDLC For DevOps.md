@@ -33,6 +33,7 @@ Each software feature or product enhancement goes through the following six stan
 - Evaluate the business value of the proposed feature
 
 **Example**:  
+
 Let’s assume *example.com* is launching a new “Kids Clothing” section. Before doing this, the product team evaluates user demand for different age groups and documents their findings.
 
 ### 2. Defining Requirements
