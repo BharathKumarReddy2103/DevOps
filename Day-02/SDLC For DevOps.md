@@ -152,7 +152,7 @@ Let’s say example.com wants to launch a new “Kids Section”:
 
 •	**Test Phase**: QA validates the feature on staging environments.
 
-•	**eploy Phase**: DevOps automates production deployment using CI/CD pipelines.
+•	**Deploy Phase**: DevOps automates production deployment using CI/CD pipelines.
 
 This process ensures speed, quality, and customer satisfaction—all thanks to following the SDLC and leveraging DevOps practices.
 ________________________________________
