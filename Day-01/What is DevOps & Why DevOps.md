@@ -1,6 +1,6 @@
-# Day 1: What is DevOps & Why DevOps?
+# What is DevOps & Why DevOps?
 
-Welcome to Day 1 of the **DevOps** series. In this article, we’ll lay the foundation by answering the most fundamental questions:
+Welcome to the **DevOps** series. In this article, we’ll lay the foundation by answering the most fundamental questions:
 
 - What is DevOps?
 - Why do we need DevOps?
