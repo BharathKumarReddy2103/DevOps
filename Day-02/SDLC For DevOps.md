@@ -125,6 +125,7 @@ build:
 ________________________________________
 ### DevOps: The Glue Holding It All Together
 
+A DevOps Engineer’s job is not to write application logic or test functionality—but to:
 
 **•	Automate** repetitive tasks
 
