@@ -32,7 +32,7 @@ Rather than relying on textbook definitions, it's essential to understand DevOps
 
 ## Why DevOps?
 
-Before DevOps, software delivery involved multiple siloed teams: developers, system administrators, testers, and release engineers. This manual process led to delays, miscommunication, and inefficiencies.
+Before DevOps, software delivery involved multiple teams—like developers, system administrators, testers, and release engineers—working separately without proper coordination. This disconnected approach often caused delays, miscommunication, and inefficiencies.
 
 ### Traditional Workflow (Before DevOps)
 
