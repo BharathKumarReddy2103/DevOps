@@ -1,4 +1,4 @@
-# Deploying a Node.js Application on AWS EC2: A Beginner-Friendly Guide
+# Deploying a Node.js Application on AWS EC2:
 
 ## Introduction
 
