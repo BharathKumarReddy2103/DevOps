@@ -85,12 +85,13 @@ Here’s a checklist of essential DevOps tools to start with:
 |----------------|-----------------------------------|
 | OS            | Linux                         |
 | Source Control | Git, GitHub, GitLab               |
-| CI/CD          | Jenkins, GitHub Actions, GitLab CI|
+| CI/CD          | Jenkins, GitHub Actions, GitLab CICD|
 | Containers     | Docker                            |
 | Orchestration  | Kubernetes                        |
 | Configuration Mangement            | Ansible                         |
 | IaC            | Terraform                         |
 | Cloud          | AWS, Azure, GCP                   |
+| Scripting            | Shell and Python                         |
 | Monitoring     | Prometheus, Grafana               |
 
 ---
