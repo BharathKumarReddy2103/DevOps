@@ -90,7 +90,7 @@ Here’s a checklist of essential DevOps tools to start with:
 | Orchestration  | Kubernetes                        |
 | Configuration Mangement            | Ansible                         |
 | IaC            | Terraform                         |
-| Cloud          | AWS, Azure, GCP                   |
+| Cloud          | AWS or Azure or GCP                   |
 | Scripting            | Shell and Python                         |
 | Monitoring     | Prometheus, Grafana               |
 
