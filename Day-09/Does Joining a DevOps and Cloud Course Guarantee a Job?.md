@@ -6,7 +6,7 @@ Many aspiring professionals ask:
 
 > *“If I join a DevOps or Cloud course, will I get a job?”*
 
-This article aims to provide a clear, practical, and honest answer. As a DevOps & Cloud Engineer with over a decade of experience, I’ve seen how the industry has evolved—and so have the expectations. Today, simply enrolling in a course isn’t enough. If you're serious about becoming a **DevOps or Cloud Engineer**, this article will guide you on what it really takes to succeed.
+This article aims to provide a clear, practical, and honest answer. As a DevOps & Cloud Engineer with over a years of experience, I’ve seen how the industry has evolved—and so have the expectations. Today, simply enrolling in a course isn’t enough. If you're serious about becoming a **DevOps or Cloud Engineer**, this article will guide you on what it really takes to succeed.
 
 ---
 
