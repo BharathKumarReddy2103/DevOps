@@ -104,4 +104,4 @@ If you commit your time and energy the right way, **no one can stop you from get
 
 > 💬 *"The best investment is the one you make in yourself."*
 >
-> See you in the next guide. Until then, keep learning and keep building
+> See you in the next guide. Until then, keep learning and keep building.
