@@ -12,7 +12,7 @@ This article aims to provide a clear, practical, and honest answer. As a DevOps 
 
 ## 📌 The Harsh Truth: Courses Alone Don’t Get You Jobs
 
-Over the last 10 years, I've been asked countless times:
+Over the last couple of years, I've been asked countless times:
 
 * “How do I enter IT?”
 * “I want a high package but with low effort.”
