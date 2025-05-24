@@ -162,23 +162,6 @@ Whether you're tackling **EKS**, **Argo CD**, or **GitHub Actions**, this 8-step
 
 ---
 
-## 🛠 Suggested GitHub Repo Structure
-
-```bash
-devops-learning-framework/
-├── README.md
-├── eks/
-│   └── hands-on.md
-├── github-actions/
-│   └── workflows.md
-├── argo-cd/
-│   └── deployment-guide.md
-├── images/
-│   └── social-preview.png
-````
-
----
-
 ## ⭐ Engage with the Community
 
 * Like this framework? **Give the repo a ⭐**
