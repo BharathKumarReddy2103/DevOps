@@ -166,4 +166,4 @@ Stay curious, stay hands-on, and embrace the full DevOps journey 🚀
 
 ---
 
-✅ Found this article helpful? Star the repo and follow along the full DevOps Series
+✅ Found this article helpful? Star the repo and follow along the full DevOps Series.
