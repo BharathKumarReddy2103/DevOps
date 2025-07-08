@@ -43,7 +43,8 @@ Maintenance windows shrink from **30 minutes to 2 minutes**, as only specific se
 
 ### 🐦 Canary Deployment Strategy
 
-Even microservices don't ensure **zero downtime**. Enter the **canary model**:
+Even with microservices, achieving zero downtime isn't guaranteed. This is where the **canary deployment model** comes into play:
+
 
 1. Deploy version `v2` of a microservice alongside existing `v1`.
 2. Route **95% traffic to `v1`**, **5% to `v2`**.
