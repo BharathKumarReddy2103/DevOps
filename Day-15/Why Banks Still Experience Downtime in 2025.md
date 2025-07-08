@@ -134,8 +134,6 @@ Some modern banks are adopting **blue-green deployment** strategies:
 
 💰 Blue-green requires **more infrastructure** but ensures zero downtime — ideal for banks with large budgets.
 
-📚 [Blue-Green Deployment - Martin Fowler](https://martinfowler.com/bliki/BlueGreenDeployment.html)
-
 ---
 
 ## 🏁 Conclusion
