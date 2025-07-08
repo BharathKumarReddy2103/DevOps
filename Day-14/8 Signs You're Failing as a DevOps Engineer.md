@@ -71,7 +71,7 @@ Implement a **least privilege access model** using IAM roles, policies, and acce
 
 * Breaks deployments
 * No rollback plan
-* Hinders team collaboration
+* Makes it harder for the team to work together smoothly
 
 **✅ Fix it**:
 Enforce Git workflows like:
