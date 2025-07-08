@@ -2,7 +2,7 @@
 
 In 2025, many tech companies like Uber and Swiggy have mastered the art of **zero downtime deployments**. Yet, some **banking applications still require maintenance windows**, making their platforms temporarily unavailable during deployments.
 
-This article explains the real reasons behind this contrast from a **DevOps, Cloud, and SRE** point of view — offering insight into monolithic architectures, deployment models like **canary and blue-green**, **database migration practices**, and the use of **feature flags**.
+This article explores why banks still face downtime by examining the issue from a DevOps, Cloud, and SRE perspective — covering key topics such as monolithic architecture, modern deployment strategies like canary and blue-green deployments, database migration challenges, and the role of feature flags in reducing downtime.
 
 ---
 
