@@ -145,7 +145,7 @@ Talk to developers weekly, ask:
 
 > “What’s the most repetitive task you did this sprint?”
 
-Then automate it
+Then automate it.
 
 ---
 
