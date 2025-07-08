@@ -132,7 +132,7 @@ Choose solutions that are:
 
 ## 🤖 7. Waiting for Developers to Tell You What to Automate
 
-**Problem**: You reactively build scripts instead of proactively improving workflows.
+**Problem**: You wait for tasks to arise before automating, rather than identifying and streamlining repetitive workflows in advance.
 
 **Why it’s bad**:
 
