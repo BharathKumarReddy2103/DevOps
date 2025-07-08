@@ -156,7 +156,7 @@ Then automate it.
 **Why it’s bad**:
 
 * Silences your expertise
-* Leads to fragile systems
+* Results in systems that are prone to failure and difficult to maintain
 * Reduces long-term credibility
 
 **✅ Fix it**:
