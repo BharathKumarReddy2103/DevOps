@@ -1,4 +1,4 @@
-## 🏦 Why Banks Still Experience Downtime in 2025
+## 🏦 Why Banks Still Experience Downtime in 2025:
 
 ![Bank Downtime Infographic](https://raw.githubusercontent.com/BharathKumarReddy2103/DevOps/main/Day-15/banks-downtime-2025.png.png)
 
