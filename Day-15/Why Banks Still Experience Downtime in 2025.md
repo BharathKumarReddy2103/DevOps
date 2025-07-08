@@ -1,6 +1,6 @@
 ## 🏦 Why Banks Still Experience Downtime in 2025
 
-![Why Banks Still Experience Downtime in 2025](./assets/banks-downtime-2025.png)
+![Bank Downtime Infographic](https://raw.githubusercontent.com/BharathKumarReddy2103/DevOps/main/Day-15/banks-downtime-2025.png.png)
 
 In 2025, many tech companies like Uber and Swiggy have mastered the art of **zero downtime deployments**. Yet, some **banking applications still require maintenance windows**, making their platforms temporarily unavailable during deployments.
 
