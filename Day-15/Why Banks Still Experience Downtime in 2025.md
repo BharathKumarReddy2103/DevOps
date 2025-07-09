@@ -67,8 +67,6 @@ canary:
     - v2: 5%
 ````
 
-📚 [Learn more about Canary Deployments in Kubernetes](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/#canary-deployments)
-
 ---
 
 ## 🗄️ 3. Database Migrations: Hidden Downtime Triggers
