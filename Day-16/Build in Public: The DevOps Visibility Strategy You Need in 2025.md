@@ -1,5 +1,7 @@
 # 🚀 Build in Public: The DevOps Visibility Strategy You Need in 2025
 
+![Build in Public Banner](https://github.com/BharathKumarReddy2103/DevOps/blob/main/Day-16/Build%20in%20Public.png?raw=true)
+
 > ✨ *“Be so visible, they can’t ignore you.”* — Bharath Kumar Reddy
 
 ---
