@@ -56,5 +56,4 @@ It’s knowing **how to solve problems across any cloud**. 🧭
 
 ---
 
-> ✨ *If you found this helpful, don’t forget to star the repo or connect with me on [LinkedIn].* 
-
+> ✨ *If you found this helpful, don’t forget to star the repo.
